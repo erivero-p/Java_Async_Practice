@@ -25,6 +25,12 @@
             <version>1.18.34</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>io.projectreactor</groupId>
+            <artifactId>reactor-core</artifactId>
+            <version>3.6.0</version>
+        </dependency>
+
     </dependencies>
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
